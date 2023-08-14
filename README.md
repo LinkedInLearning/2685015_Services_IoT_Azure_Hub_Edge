@@ -15,7 +15,7 @@ Ce dossier Repository contient le code source final permettant de lancer le simu
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
    - SDK .NET version 7 minimum (lien [ici](https://dotnet.microsoft.com/en-us/download))
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
-3. A la racine du projet, lancer `dotnet run` afin de lancer le simulateur
+3. À la racine du projet, lancer `dotnet run` afin de lancer le simulateur
 
 
 ### Formateur
