@@ -27,8 +27,8 @@ Ce dossier Repository contient le code source final permettant de lancer le simu
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning
+[lil-course-url]: https://www.linkedin.com/learning/les-services-iot-d-azure-iot-hub-et-iot-edge
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/christophe-gigax
-[lil-thumbnail-url]: https:
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGS-KDGNeigZg/learning-public-crop_675_1200/0/1698749296582?e=2147483647&v=beta&t=LM7vGX9cDG0VX7fGOn9fSALzSUUWnjJauR0yViFDLTo
 
 [1]: # (End of FR-Instruction ###############################################################################################)
